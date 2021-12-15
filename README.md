@@ -19,7 +19,7 @@ You may want to checkout my projects:
 * [rustmann](https://github.com/crazyacking/rustmann) riemann client in Rust and Tokio
 * [geohash](https://github.com/georust/geohash) geohash implemented in Rust
 
-#### [Sponse me on liberapay ☕️](https://en.liberapay.com/Sunng/)
+#### [Sponse me on liberapay ☕️](https://en.liberapay.com/crazyacking/)
 
 Donation is welcomed if you find my projects helpful. 
 
