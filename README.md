@@ -4,7 +4,7 @@ You may want to checkout my projects:
 
 #### Rust Projects
 
-* [handlebars-rust](https://github.com/crazyacking/handlebars-rust) Template engine for Rust, using the handlebars template lanaguage
+* [envy](https://github.com/crazyacking/envy) Deserialize env vars into typesafe structs with rust
 * [metriki](https://github.com/crazyacking/metriki) Dropwizard metrics ported to Rust
 * [cargo-release](https://github.com/crate-ci/cargo-release) `cargo release`
 * [rustmann](https://github.com/crazyacking/rustmann) riemann client in Rust and Tokio
