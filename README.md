@@ -2,15 +2,6 @@
 
 You may want to checkout my projects:
 
-#### crazyacking's Clojure Armory
-
-* [slacker](https://github.com/crazyacking/slacker) and [slacker-cluster](https://github.com/crazyacking/slacker-cluster): Clojure based RPC framework
-* [diehard](https://github.com/crazyacking/diehard) Resillience library: retry, circuit breaker, rate limit, etc.
-* [stavka](https://github.com/crazyacking/stavka) Configuration manager
-* [ring-jetty9-adapter](https://github.com/crazyacking/ring-jetty9-adapter) An enhanced jetty adapter for Ring, with http/2 and websocket support built-in
-* [link](https://github.com/clojure-link/link) Thin Netty wrapper for Clojure
-* [rigui](https://github.com/crazyacking/rigui) Timing-wheels based timer for clojure
-
 #### Rust Projects
 
 * [handlebars-rust](https://github.com/crazyacking/handlebars-rust) Template engine for Rust, using the handlebars template lanaguage
