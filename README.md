@@ -5,10 +5,12 @@ You may want to checkout my projects:
 #### Rust Projects
 
 * [envy](https://github.com/crazyacking/envy) Deserialize env vars into typesafe structs with rust
-* [metriki](https://github.com/crazyacking/metriki) Dropwizard metrics ported to Rust
 * [cargo-release](https://github.com/crate-ci/cargo-release) `cargo release`
-* [rustmann](https://github.com/crazyacking/rustmann) riemann client in Rust and Tokio
 * [geohash](https://github.com/georust/geohash) geohash implemented in Rust
+
+#### Golang Projects
+
+* [algorithms-go](https://github.com/crazyacking/algorithms-go) Algorithms Implemented in GoLang
 
 #### [Sponse me on liberapay ☕️](https://en.liberapay.com/crazyacking/)
 
