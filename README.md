@@ -22,8 +22,9 @@ Donation is welcomed if you find my projects helpful.
 <!--
 ![Metrics](https://github.com/crazyacking/crazyacking/blob/main/github-metrics.svg)
 -->
-
+<!--
 [![crazyacking's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyacking)](https://github.com/crazyacking)
+-->
 
 <!--
 **crazyacking/crazyacking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,5 +39,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 -->
