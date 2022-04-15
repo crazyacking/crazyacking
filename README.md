@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 You may want to checkout my projects:
@@ -37,4 +38,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
